@@ -8,12 +8,12 @@
 5) Client's review
 
 ### Built with
-> Semantic HTML5 markup
-> CSS custom properties
-> Flexbox
-> CSS grid
-> Javascript for dynamic page 
-> MySQL with PHP - can connect to and manipulate databases 
+1) Semantic HTML5 markup
+2) CSS custom properties
+3) Flexbox
+4) CSS grid
+5) Javascript for dynamic page
+6) MySQL with PHP - can connect to and manipulate databases 
 
 ### Appointment 
 Here your input details will store to the PHPMyAdmin Database and connects to backend server.
