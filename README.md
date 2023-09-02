@@ -2,9 +2,9 @@
 
  ### About-Us 
  ### Our Services
- Our Doctors
- Client's Review
- Quick Links
+ ### Our Doctors
+ ### Client's Review
+ ### Quick Links
 
 Appointment - will store your details in a database coded using php and sql.
 
